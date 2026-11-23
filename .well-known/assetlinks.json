@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "io.github.arlyia.vicenav", "sha256_cert_fingerprints": ["22:5E:B1:10:1C:11:D1:6C:E7:05:77:CC:63:9F:4F:8A:B9:56:5D:C0:22:29:F9:91:CE:E1:94:4C:5C:B1:7E:A0"]}}]
